@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/tester"
+	"github.com/delphinus/sessions"
+	"github.com/delphinus/sessions/tester"
 )
 
 const memcachedTestServer = "localhost:11211"

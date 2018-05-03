@@ -3,8 +3,8 @@ package mongo
 import (
 	"testing"
 
-	"github.com/gin-contrib/sessions"
-	"github.com/gin-contrib/sessions/tester"
+	"github.com/delphinus/sessions"
+	"github.com/delphinus/sessions/tester"
 	mgo "gopkg.in/mgo.v2"
 )
 

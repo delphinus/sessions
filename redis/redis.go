@@ -2,7 +2,7 @@ package redis
 
 import (
 	"github.com/boj/redistore"
-	"github.com/gin-contrib/sessions"
+	"github.com/delphinus/sessions"
 	"github.com/garyburd/redigo/redis"
 	gsessions "github.com/gorilla/sessions"
 )
